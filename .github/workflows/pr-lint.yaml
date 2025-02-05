@@ -1,0 +1,10 @@
+name: pr-lint
+
+on:
+  pull_request_review:
+    types: [submitted]
+
+jobs:
+  lint-yaml:
+    if: github.event.review.state == 'approved' && github.repository.owner != 'agntcy'
+    uses: ./.github/workflows/_lint.yml
