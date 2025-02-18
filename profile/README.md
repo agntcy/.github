@@ -1,4 +1,4 @@
-![Agntcy logo](https://github.com/user-attachments/assets/0cfe0777-be2b-4403-8a4f-9ea52a37b5ed)
+![agntcy](https://github.com/user-attachments/assets/f496f2c3-25f5-4b56-a1db-5b89c1c5d8e5)
 
 * * * * *
 
