@@ -1,8 +1,9 @@
 The AGNTCY (pronounced “agency”), aka Internet of Agents Collective, or the Collective, is the collective of contributors and maintainers building the Internet of Agents (IoA): an open, interoperable, internet for agent-to-agent collaboration.
 
 - [Governance](https://github.com/agntcy/governance)
-- [Contributions](https://github.com/agntcy/repo-template/blob/main/CONTRIBUTING.md)
-- [Code of Conduct](https://github.com/agntcy/repo-template/blob/main/CODE_OF_CONDUCT.md)
+- [Contributors](https://github.com/agntcy/governance/blob/main/OPERATING_MODEL.md#33-contributors)
+- [Contribution Workflow](https://github.com/agntcy/governance/blob/main/OPERATING_MODEL.md#5-contribution-workflow)
+- [Code of Conduct](https://github.com/agntcy/governance/blob/main/OPERATING_MODEL.md#7-code-of-conduct--conflict-resolution)
 
 
 Visit [agntcy.org](https://agntcy.org) to learn more!
@@ -18,6 +19,5 @@ The AGNTCY team welcomes those interested to join discussions in slack, attend m
 * * * * *
 
 - Agntcy Github Docs [https://github.com/agntcy/docs](https://github.com/agntcy/docs). Published docs [docs.agntcy.org](https://docs.agntcy.org)
-- New Repo? check out the [new repo template](https://github.com/agntcy/repo-template).
 
 * * * * *
