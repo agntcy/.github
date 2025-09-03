@@ -30,4 +30,12 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 
 ### Technical Steering Committee
 
-Current TSC members can be found [here](https://github.com/agntcy/governance/blob/main/CONTRIBUTING.md#technical-steering-committee-members).
+Current [TSC members](https://github.com/agntcy/governance/blob/main/CONTRIBUTING.md#technical-steering-committee-members) in alphabetical order:
+
+* John Cardente (Dell Technologies, @jcardente-dell)
+* Michael Clifford (Red Hat, @MichaelClifford)
+* Luca Muscariello (Cisco, @muscariello)
+* John Parello (Cisco, @jparello)
+* Egor Pushkin (Oracle, @egorpushkin)
+* Marcelo Yannuzi (Cisco, @mayannuz)
+* Todd Segal (Google Cloud, @ToddSegal)
