@@ -20,8 +20,7 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 
 ## Connect with Us
 
-* [Slack](https://agntcy.slack.com/ssb/redirect) 
-* [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
+* [Slack](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
 * [YouTube](https://www.youtube.com/playlist?list=PL49BrgsjXg5rUr_jw8VHLaz-roTuRRIjG) 
 * [LinkedIn](https://www.linkedin.com/company/agntcyproject/posts/?feedView=all) 
 * [Working Groups](https://github.com/agntcy/governance/tree/main/working-groups)
