@@ -21,7 +21,7 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 ## Connect with Us
 
 
-* [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg)
+* [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3hb4p7bo0-5H2otGjxGt9OQ1g5jzK_GQ)
 * [Slack Workspace](https://agntcy.slack.com/ssb/redirect)
 * [YouTube](https://www.youtube.com/playlist?list=PL49BrgsjXg5rUr_jw8VHLaz-roTuRRIjG) 
 * [LinkedIn](https://www.linkedin.com/company/agntcyproject/posts/?feedView=all) 
