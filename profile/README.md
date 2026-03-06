@@ -25,7 +25,7 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 * [LF - AGNTCY Meeting Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 * [Blogs](https://blogs.agntcy.org/)
 * [YouTube](https://www.youtube.com/@agntcy-lf)
-* [YouTube Briefs](https://www.youtube.com/playlist?list=PL49BrgsjXg5rUr_jw8VHLaz-roTuRRIjG) 
+* [YouTube Briefs](https://www.youtube.com/playlist?list=PL49BrgsjXg5qVeRVqlX9O74W02q3c8fow) 
 * [LinkedIn](https://www.linkedin.com/company/agntcyproject/posts/?feedView=all) 
 * [Working Groups](https://github.com/agntcy/governance/tree/main/working-groups)
 * [AGNTCY Meeting Calendar](https://calendar.google.com/calendar/u/0/embed?src=admin@ops.agntcy.org)
