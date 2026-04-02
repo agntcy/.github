@@ -38,6 +38,6 @@ Current [TSC members](https://github.com/agntcy/governance/blob/main/CONTRIBUTIN
 * Michael Clifford (Red Hat, @MichaelClifford)
 * Luca Muscariello (Cisco, @muscariello)
 * John Parello (Cisco, @jparello)
-* Egor Pushkin (Oracle, @egorpushkin)
+* Anant Patel (Oracle, @AnantPatel44)
 * Todd Segal (Google Cloud, @ToddSegal)
 * Marcelo Yannuzi (Cisco, @mayannuz)
