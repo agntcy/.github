@@ -20,24 +20,24 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 
 ## Connect with Us
 
-* [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3hb4p7bo0-5H2otGjxGt9OQ1g5jzK_GQ)
+* [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w)
 * [Slack Workspace](https://agntcy.slack.com/ssb/redirect)
-* [AGNTCY Meeting Calendar (LF)](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
+* [AGNTCY Meeting Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
 * [Blogs](https://blogs.agntcy.org/)
 * [YouTube](https://www.youtube.com/@agntcy-lf)
 * [YouTube Briefs](https://www.youtube.com/playlist?list=PL49BrgsjXg5qVeRVqlX9O74W02q3c8fow) 
 * [LinkedIn](https://www.linkedin.com/company/agntcyproject/posts/?feedView=all) 
 * [Working Groups](https://github.com/agntcy/governance/tree/main/working-groups)
 
-
 ### Technical Steering Committee
 
 Current [TSC members](https://github.com/agntcy/governance/blob/main/CONTRIBUTING.md#technical-steering-committee-members) in alphabetical order:
 
 * John Cardente (Dell Technologies, @jcardente-dell)
-* Michael Clifford (Red Hat, @MichaelClifford)
+* Kevin Cogan (Red Hat, @kevincogan)
 * Luca Muscariello (Cisco, @muscariello)
 * John Parello (Cisco, @jparello)
 * Anant Patel (Oracle, @AnantPatel44)
 * Todd Segal (Google Cloud, @ToddSegal)
+* Hema Seshadri (Akamai)
 * Marcelo Yannuzi (Cisco, @mayannuz)
