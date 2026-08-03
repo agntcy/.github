@@ -19,6 +19,7 @@ Love our mission and work? If you decide to contribute to any of our sub-project
 Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/blob/main/CONTRIBUTING.md), our [Governance](https://github.com/agntcy/governance) repository, and our [Code of Conduct](https://github.com/agntcy/governance/blob/main/CODE_OF_CONDUCT.md). Visit [agntcy.org](https://agntcy.org) to learn more!
 
 ## Connect with Us
+
 * [DIR Community on Discord](https://discord.gg/FbEnSHXD34)
 * [SLIM Community on Discord](https://discord.gg/hdTDzBQe7D)
 * [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w)
