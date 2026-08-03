@@ -20,6 +20,8 @@ Check out the AGNTCY [Contributing Guide](https://github.com/agntcy/governance/b
 
 ## Connect with Us
 
+* [DIR Community on Discord](https://discord.gg/FbEnSHXD34)
+* [SLIM Community on Discord](https://discord.gg/hdTDzBQe7D)
 * [AGNTCY Slack self join link](https://join.slack.com/t/agntcy/shared_invite/zt-3xozr6nzq-i6LXv2P8l2kVW4_Prnny2w)
 * [Slack Workspace](https://agntcy.slack.com/ssb/redirect)
 * [AGNTCY Meeting Calendar](https://zoom-lfx.platform.linuxfoundation.org/meetings/agntcy?view=week)
